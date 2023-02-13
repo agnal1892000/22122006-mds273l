@@ -29,6 +29,7 @@ public class lab2 {
     System.out.println("Make your choice");
     choice = Scanner.nextInt();
     
+
     
     
     
